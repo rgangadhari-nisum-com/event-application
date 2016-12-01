@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class LoginController {
 	public String getLoginData(){
-		return "HIII hello";
+		return "HIII hellow";
 	}
 
 }
